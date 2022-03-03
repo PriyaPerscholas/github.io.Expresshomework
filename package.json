@@ -1,0 +1,25 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyaPerscholas/github.io.Expresshomework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PriyaPerscholas/github.io.Expresshomework/issues"
+  },
+  "homepage": "https://github.com/PriyaPerscholas/github.io.Expresshomework#readme",
+  "devDependencies": {}
+}
